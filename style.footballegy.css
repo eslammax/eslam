@@ -255,10 +255,13 @@ font-size:14px;
 
 .sch td{
 height:30px;
-border:0px solid red;
+border:5px solid black;
 line-height:20px;
 text-align:center;
 font-size:14px;
+border-bottom-color: steelblue;
+border-radius: 5px;
+border-top-color: steelblue;
 }
 
 .xim{
@@ -295,7 +298,7 @@ border-radius:0px !important;
 .channel{
 height:80px;
 width:80px;
-background:#ededed url('images/play.png') no-repeat 5px 0px;
+background:#ededed url('http://icons.iconarchive.com/icons/graphicloads/100-flat/72/play-icon.png') no-repeat 5px 0px;
 padding:0px 20px;
 border-radius:10px;
 color:black;
