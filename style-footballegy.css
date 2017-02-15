@@ -298,7 +298,7 @@ border-radius:0px !important;
 .channel{
 height:80px;
 width:80px;
-background:#ededed url('http://icons.iconarchive.com/icons/graphicloads/100-flat/72/play-icon.png') no-repeat 5px 0px;
+background:#ededed url('/play-icon.png') no-repeat 5px 0px;
 padding:0px 20px;
 border-radius:10px;
 color:black;
